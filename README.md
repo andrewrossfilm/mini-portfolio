@@ -1,5 +1,3 @@
-Edinburgh University Mini-Portfolio Submission.
-
 This is my mini-portfolio submission for applying to The University of Edinburgh BA Film and Television. 
 
 The main script for my submission is "Closing Time". This is the screenplay for a short film I planned on shooting for this portfolio, 
